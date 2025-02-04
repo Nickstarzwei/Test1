@@ -8,7 +8,7 @@ Ein interaktives HTML-Story-Spiel über das Verfolgen eines geheimnisvollen Scha
 - 🔗 Interaktive Links
 
 ## 🚀 Live-Demo
-[Hier klicken, um das Spiel zu spielen](https://dein-username.github.io/schattenlaufen/)  
+[Hier klicken, um das Spiel zu spielen](https://nickstarzwei.github.io/Test1/)  
 
 ## 📷 Screenshot
 ![Vorschau](img/Schatten.jpg)
